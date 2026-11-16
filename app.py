@@ -1,6 +1,7 @@
 # checking if the githubAction workflow will get troggered or no
 # Flask app
 from flask import Flask, render_template
+
 app = Flask(__name__)
 
 
